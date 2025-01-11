@@ -12,12 +12,12 @@ I have been tasked with answering three key questions about New York City (NYC) 
 # 1. Which NYC schools have the best math results?
 
 To answer this question, I started with a quick calculation. The best math score is typically at least 80% of the maximum possible score of 800, which means an average of 640 or higher is needed to be considered one of the best schools. Based on this, I found that Stuyvesant High School stood out as the top school for math, with an impressive average score of 754.
-
+![alt text](top_math_score.png)
 # 2. What are the top 10 performing schools based on the combined SAT scores?
 
 To answer this question I first calculated the total SAT score per school. After calculating the total I sorted them in descending order to get the top 10 schools. Again, Stuyvesant High School came out on top as the highest performing school.
-
+![alt text](total_sat.png)
 # 3. Which single borough has the largest standard deviation in the combined SAT score?
 
-It appears that Manhattan had the largest standard deviation of 230.29. To give a more well rounded answer I included the average SAT score and the number of schools in each borough.
-
+After calculating the standard deviation of each borough, it appears that Manhattan had the largest standard deviation of 230.29. 
+![alt text](std.png)
